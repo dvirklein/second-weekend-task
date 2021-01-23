@@ -1,0 +1,22 @@
+* {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  text-align: center;
+}
+table {
+  width: 80%;
+  background-color: cadetblue;
+  border: 2px solid white;
+  margin: auto;
+}
+td {
+  padding: 0.3rem;
+  border: 2px solid white;
+  border-radius: 10%;
+}
+
+th {
+  background-color: lightblue;
+  padding: 0.3rem;
+  border: 2px solid white;
+  border-radius: 10%;
+}
